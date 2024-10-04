@@ -6,28 +6,6 @@
 
 
 
-
-## 📕 Latest Blog Posts on Kilukru DEV blog
-
-<a href="https://app.daily.dev/sujon258549" align="right">
-    <img align="right" src="https://github.com/sujon-258549/sujon-258549/blob/master/devcard.svg" width="250" alt="Sujon's Dev Card"/>
-</a>
-
-<!-- BLOG-KILUKRU-POST-LIST:START -->
-
-<!-- BLOG-KILUKRU-POST-LIST:END -->
-
-
-
-
-
-
-
-
-
-
-
-
 <img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 <h1 align="center">
