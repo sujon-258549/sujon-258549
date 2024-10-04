@@ -9,7 +9,9 @@
 
 ## 📕 Latest Blog Posts on Kilukru DEV blog
 
-<a href="https://app.daily.dev/alfreddagenais" align="right"><img align="right" src="https://github.com/alfreddagenais/alfreddagenais/blob/master/devcard.svg" width="250" alt="Alfred Dagenais's Dev Card"/></a>
+<a href="https://app.daily.dev/sujon258549" align="right">
+    <img align="right" src="https://github.com/sujon-258549/sujon-258549/blob/master/devcard.svg" width="250" alt="Sujon's Dev Card"/>
+</a>
 
 <!-- BLOG-KILUKRU-POST-LIST:START -->
 
