@@ -45,7 +45,6 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujon-258549&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujon-258549&theme=radical">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujon-258549&theme=radical&utcOffset=8">
-
   <br>
   <p align="center">
     <div align="center">
@@ -61,13 +60,14 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujon-258549&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
       </a>
+       <br>
     </div>
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujon-258549&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
     <br>
 
     
   </p>
-
+ <br>
   <div align="center">
     <h1 align="center">Skills 🛠️<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"></h1>
   </div>
