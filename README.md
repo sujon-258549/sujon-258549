@@ -30,9 +30,12 @@
 
 ---
 
+# 🏆 Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujon-258549&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
+<img src="https://github-trophies.vercel.app/?username=sujon-258549&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
 </div>
+
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
