@@ -70,9 +70,7 @@
 
 <p align="center">
  
-  <a href="https://github.com/sujon-258549">
-    <img align="center" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sujon-258549&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
+  
 </p>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=sujon-258549&theme=react-dark&hide_border=true&area=true)
