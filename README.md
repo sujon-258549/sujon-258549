@@ -43,13 +43,11 @@
 
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ MY GITHUB STATS 💚 ⚡</h2>
 
 <div align="center">
 
 
-
-#### MY GITHUB STATS 💚:
 
 <br>
 <p align = "center">
