@@ -71,9 +71,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sujon-258549&theme=react-dark"/>
+<br>
 
-
-<strong>🏆 Dooboo lab's github stats</strong>
+<h1>🏆 Dooboo lab's github stats</h1>
 
 <a href="https://stats.hyochan.dev/en/stats/sujon-258549"><img src="https://stats.hyochan.dev/api/github-stats?login=sujon-258549" width="600" /></a>
 
