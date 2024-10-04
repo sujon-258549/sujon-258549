@@ -55,6 +55,28 @@
         <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sujon-258549&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       </a>
     </div>
+
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+<a href="https://github.com/sujon-258549">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujon-258549&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujon-258549&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujon-258549&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujon-258549&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujon-258549&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sujon-258549&theme=react-dark"/>
+
+
+
+
+
+
+
+    
     <br><br><br><br><br><br><br><br><br>
     <div align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
