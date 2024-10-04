@@ -44,9 +44,29 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-  <a href="https://github.com/sujon-258549">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujon-258549&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
-</a>
+  <div>
+  <table width="100%">
+    <tr>
+      <!-- Most Used Languages -->
+      <td width="50%" valign="top">
+        <a href="https://github.com/sujon-258549">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujon-258549&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
+        </a>
+      </td>
+      <!-- GitHub Stats and Streak Stats -->
+      <td width="50%" valign="top">
+        <a href="https://github.com/sujon-258549">
+          <img src="https://github-readme-stats.vercel.app/api?username=sujon-258549&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&theme=highcontrast" alt="Sujon's GitHub Stats" width="100%" height="135px" />
+        </a>
+        <br />
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com/?user=sujon-258549&theme=highcontrast" alt="Sujon's GitHub Streak" width="100%" height="135px" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
   <br>
   <p align="center">
