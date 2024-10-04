@@ -27,11 +27,12 @@
 <!---Open souced------->
 
 <br>
+<div  align="center">
 
-
+  # 🏆 Trophies
+</div>
 
 <div align="center">
-  # 🏆 Trophies
 <img src="https://github-trophies.vercel.app/?username=sujon-258549&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
