@@ -73,6 +73,11 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sujon-258549&theme=react-dark"/>
 
 
+<strong>🏆 Sujon's GitHub Stats</strong>
+
+<a href="https://github.com/sujon-258549">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujon-258549&show_icons=true&theme=highcontrast" width="600" />
+</a>
 
 
 
@@ -88,11 +93,7 @@
 
   <br> <br>
 
-  <strong>🏆 Sujon's GitHub Stats</strong>
 
-<a href="https://stats.hyochan.dev/en/stats/sujon-258549">
-  <img src="https://stats.hyochan.dev/api/github-stats?login=sujon-258549" width="600" />
-</a>
 
 
   | Category        | Skills        |
