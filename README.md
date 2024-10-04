@@ -88,6 +88,13 @@
 
   <br> <br>
 
+  <strong>🏆 Sujon's GitHub Stats</strong>
+
+<a href="https://stats.hyochan.dev/en/stats/sujon-258549">
+  <img src="https://stats.hyochan.dev/api/github-stats?login=sujon-258549" width="600" />
+</a>
+
+
   | Category        | Skills        |
   |-----------------|---------------|
   | Frameworks      | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
