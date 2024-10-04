@@ -44,6 +44,19 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
+
+
+
+#### MY GITHUB STATS 💚:
+
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=shivashishy&theme=blue-green&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shivashishy&theme=blue-green">
+</p>
+
+
+
  
 
 
