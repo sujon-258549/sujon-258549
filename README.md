@@ -64,7 +64,7 @@
       </a>
        <br>
     </div>
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujon-258549&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
+    https://github-readme-activity-graph.vercel.app/graph?username=sujon-258549&theme=react-dark&hide_border=true&area=true
     <br>
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujon-258549&theme=radical">
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujon-258549&theme=radical">
