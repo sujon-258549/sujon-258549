@@ -51,7 +51,7 @@
 
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sujon-258549&theme=blue-green">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sujon-258549&theme=2077">
 </p>
 
 
