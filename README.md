@@ -4,6 +4,37 @@
   </a>
 </h1>
 
+
+
+
+## 📕 Latest Blog Posts on Kilukru DEV blog
+
+<a href="https://app.daily.dev/alfreddagenais" align="right"><img align="right" src="https://github.com/alfreddagenais/alfreddagenais/blob/master/devcard.svg" width="250" alt="Alfred Dagenais's Dev Card"/></a>
+
+<!-- BLOG-KILUKRU-POST-LIST:START -->
+- [Redécouverte et émerveillement : le Single Action Controller de Laravel depuis sa version 8](https://www.kilukru.dev/redecouverte-et-emerveillement-le-single-action-controller-de-laravel-depuis-sa-version-8/)
+- [10 Façons de décourager les développeurs au travail](https://www.kilukru.dev/10-facons-de-decourager-les-developpeurs-au-travail/)
+- [Révolution SEO avec ChatGPT : Découvrez le Plugin Rapport Speedix pour des Analyses Intelligentes](https://www.kilukru.dev/revolution-seo-avec-chatgpt-decouvrez-le-plugin-rapport-speedix-pour-des-analyses-intelligentes/)
+- [Rapport Speedix et Kilukru : Votre Alliance pour une Optimisation SEO Accessible et Efficace](https://www.kilukru.dev/rapport-speedix-et-kilukru-votre-alliance-pour-une-optimisation-seo-accessible-et-efficace/)
+- [Un guide de communication client pour les développeurs et agences](https://www.kilukru.dev/un-guide-de-communication-client-pour-les-developpeurs-et-agences/)
+- [Quand la simplicité bat la complexité : Réflexions sur l’article de Dominic Gagnon](https://www.kilukru.dev/quand-la-simplicite-bat-la-complexite-reflexions-sur-larticle-de-dominic-gagnon/)
+- [Comment gérer plusieurs projets en tant que développeur](https://www.kilukru.dev/comment-gerer-plusieurs-projets-en-tant-que-developpeur/)
+- [Les 10 principes d’une bonne conception de site web en 2023](https://www.kilukru.dev/les-10-principes-dune-bonne-conception-de-site-web-en-2023/)
+- [Comment définir un projet réussi en 10 étapes](https://www.kilukru.dev/comment-definir-un-projet-reussi-en-10-etapes/)
+- [Conseils pour définir la portée d’un projet](https://www.kilukru.dev/conseils-pour-definir-la-portee-dun-projet/)
+<!-- BLOG-KILUKRU-POST-LIST:END -->
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 <h1 align="center">
