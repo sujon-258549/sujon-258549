@@ -71,7 +71,7 @@
   <div align="center">
     <h1 align="center">Skills 🛠️<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"></h1>
   </div>
-
+  <br>
   <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
   <br>
@@ -199,10 +199,4 @@
 
   <br>
 
-  <div align="center">
-    <h1 align="center">Want to Know More? 🚀<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"></h1>
-  </div>
-
-  <p align="center">
-    Feel free to reach out to me for collaboration or just to have a chat! I'm always open to learning new things and sharing knowledge.
-  </p>
+ 
