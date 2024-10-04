@@ -44,7 +44,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-  
+  <a href="https://github.com/sujon-258549">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujon-258549&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=highcontrast" width="100%" height="275px" />
+</a>
+
   <br>
   <p align="center">
     <div align="center">
