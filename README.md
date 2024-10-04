@@ -90,36 +90,79 @@
   <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
   <br>
 
-  <div align="">
-    <h1 align="center">Projects 📚<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"></h1>
-  </div>
+ <div align="">
+  <h1 align="center">Languages and Tools 🛠️<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"></h1>
+</div>
 
-  <table>
-    <thead>
-      <tr>
-        <th>Project Name</th>
-        <th>Demo</th>
-        <th>GitHub</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>project 1</td>
-        <td><a href="https://sujon-258549.github.io/silverhok/">Demo</a></td>
-        <td><a href="https://github.com/sujon-258549/silverhok">Code</a></td>
-      </tr>
-      <tr>
-        <td>project 2</td>
-        <td><a href="https://sujon-258549.github.io/dark-wood-project/">Demo</a></td>
-        <td><a href="https://github.com/sujon-258549/dark-wood-project">Code</a></td>
-      </tr>
-      <tr>
-        <td>project 3</td>
-        <td><a href="https://sujon-258549.github.io/merch-ecommerce/">Demo</a></td>
-        <td><a href="https://github.com/sujon-258549/merch-ecommerce">Code</a></td>
-      </tr>
-    </tbody>
-  </table>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#tech">
+       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96"> 
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+      </a>
+      <br>React
+    </td>
+    <td align="center"  width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBjaVG6Bw7cylaiLb1O1DgBIW0EzKC9eQQw&s" alt="GitHub" width="40" height="40"/>
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+      </a>
+      <br>Firebase
+    </td>
+  </tr>
+</table>
+
+
+
+
 
   <br>
   
