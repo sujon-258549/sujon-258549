@@ -171,18 +171,30 @@
   
   <div align="center">
     <h1 align="center">Connect With Me 🌐<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"></h1>
-    <a href="https://www.linkedin.com/in/sujon-mia/">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="">
+    <p align="" >
+    <div align="">
+    <a href="https://www.facebook.com/profile.php?id=100088142062918" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
-    <a href="https://www.facebook.com/sujon.mia.568">
-      <img src="https://img.shields.io/badge/Facebook-%234B0082.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+    <a href="https://github.com/sujob258549" target="_blank">
+        <img src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:sujonmia622@gmail.com">
-      <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="https://www.linkedin.com/in/sujon25" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/sujon.mia622/">
-      <img src="https://img.shields.io/badge/Instagram-%23C13584.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="mailto:sujon258549@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="tel:01790876529" target="_blank">
+        <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    </a>
+</div>
+
+  </p>
+</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   </div>
 
   <br>
