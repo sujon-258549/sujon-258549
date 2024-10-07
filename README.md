@@ -1,10 +1,4 @@
 
-[![Sujon's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Banner.svg "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/sujon-258549)
-
-
-
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,There!+👋;......This+is+Md+Sujon+Mia....;Nice+to+meet+you!&center=true&size=40">
@@ -205,14 +199,13 @@
   </tr>
 </table>
 
-
-
-
-
   <br>
-  
+
   <div align="center">
     <h1 align="center">Connect With Me 🌐<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"></h1>
+
+    
+
 <div align="">
     <p align="" >
     <div align="">
