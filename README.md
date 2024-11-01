@@ -187,7 +187,7 @@
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgBjaVG6Bw7cylaiLb1O1DgBIW0EzKC9eQQw&s" alt="GitHub" width="40" height="40"/>
+        <img src="https://i.pinimg.com/736x/93/8e/0f/938e0f24a2943fc1606e340033b45d8b.jpg" alt="GitHub" width="40" height="40"/>
       </a>
       <br>GitHub
     </td>
