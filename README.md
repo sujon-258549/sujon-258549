@@ -203,6 +203,12 @@
       </a>
       <br>Typescript
     </td>
+     <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://i.ibb.co.com/kDWjvVz/images-removebg-preview.png" alt="Firebase" width="40" height="40"/>
+      </a>
+      <br>Vercel
+    </td>
   </tr>
 </table>
 
