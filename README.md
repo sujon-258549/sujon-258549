@@ -1,4 +1,4 @@
-<img src="https://thumbs.dreamstime.com/b/welcome-banner-colorful-leaves-autumn-maple-birch-vector-illustration-99823631.jpg" width="100%" height='300px' alt="" />
+<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0291.gif" width="100%" height='300px' alt="" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -139,7 +139,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#tech">
-       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+       <img src="https://i.ibb.co.com/6Nm8kZx/js-removebg-preview.png" alt="Javascript" width="40" height="40"/>
       </a>
       <br>JavaScript
     </td>
