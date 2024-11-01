@@ -1,4 +1,4 @@
-<img src="https://thumbs.dreamstime.com/b/welcome-banner-colorful-leaves-autumn-maple-birch-vector-illustration-99823631.jpg" alt="" />
+<img src="https://thumbs.dreamstime.com/b/welcome-banner-colorful-leaves-autumn-maple-birch-vector-illustration-99823631.jpg" width="100%" height='300px' alt="" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
