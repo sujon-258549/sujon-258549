@@ -197,6 +197,12 @@
       </a>
       <br>Firebase
     </td>
+     <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://i.ibb.co.com/q1fyQv4/sujon.webp" alt="Firebase" width="40" height="40"/>
+      </a>
+      <br>Typescript
+    </td>
   </tr>
 </table>
 
