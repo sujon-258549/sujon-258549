@@ -209,6 +209,13 @@
       </a>
       <br>Typescript
     </td>
+    </td>
+     <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://i.ibb.co.com/W2krJ5W/images-1-removebg-preview.png" width="40" height="40"/>
+      </a>
+      <br>JWT
+    </td>
      <td align="center" width="96">
       <a href="#tech">
         <img src="https://i.ibb.co.com/kDWjvVz/images-removebg-preview.png" alt="Firebase" width="40" height="40"/>
