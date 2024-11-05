@@ -185,6 +185,12 @@
       </a>
       <br>MongoDB
     </td>
+     <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://lms.pantechelearning.com/s/store/courses/64b7a793e4b030f9826c3925/cover.jpg?v=3" width="40" height="40"/>
+      </a>
+      <br>Express Js
+    </td>
     <td align="center" width="96">
       <a href="#tech">
         <img src="https://i.ibb.co.com/zPTjTVp/Screenshot-7.png" alt="GitHub" width="50" height="50"/>
