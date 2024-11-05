@@ -187,9 +187,9 @@
     </td>
      <td align="center" width="96">
       <a href="#tech">
-        <img src="https://lms.pantechelearning.com/s/store/courses/64b7a793e4b030f9826c3925/cover.jpg?v=3" width="40" height="40"/>
+        <img src="https://i.ibb.co.com/hKCVd5h/express-removebg-preview.png" width="40" height="40"/>
       </a>
-      <br>Express Js
+      <br>Express
     </td>
     <td align="center" width="96">
       <a href="#tech">
