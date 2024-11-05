@@ -210,9 +210,9 @@
       <br>Typescript
     </td>
     </td>
-     <td align="center" width="96">
+     <td align="center" width="120">
       <a href="#tech">
-        <img src="https://i.ibb.co.com/fXHWq2T/images-removebg-preview-3.png" width="60" height="40"/>
+        <img src="https://i.ibb.co.com/fXHWq2T/images-removebg-preview-3.png" width="80" height="40"/>
       </a>
       <br>JWT
     </td>
