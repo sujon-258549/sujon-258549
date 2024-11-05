@@ -212,7 +212,7 @@
     </td>
      <td align="center" width="96">
       <a href="#tech">
-        <img src="https://i.ibb.co.com/W2krJ5W/images-1-removebg-preview.png" width="50" height="50"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/JWT_logo_1946.png" width="50" height="50"/>
       </a>
       <br>JWT
     </td>
