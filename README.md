@@ -216,6 +216,13 @@
       </a>
       <br>JWT
     </td>
+    </td>
+     <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" width="50" height="50"/>
+      </a>
+      <br>Figma
+    </td>
      <td align="center" width="96">
       <a href="#tech">
         <img src="https://i.ibb.co.com/kDWjvVz/images-removebg-preview.png" alt="Firebase" width="40" height="40"/>
