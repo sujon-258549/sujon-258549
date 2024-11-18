@@ -115,7 +115,7 @@
 
   | Category        | Skills        |
   |-----------------|---------------|
-  | Frameworks      | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZINvM67GmgTbwpiAUlD33goWl2vf4GDppg&s" height="25"/> 
+  | Frameworks      | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZINvM67GmgTbwpiAUlD33goWl2vf4GDppg&s" height="30"/> 
   | Languages       | <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />  |
   | Styling & Frameworks |<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSiVktKrzcHojVaJE3gL1i2IB71ETLIu-xlQ&s" width="150px" height="28px" /> |
   | Database        | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  |
