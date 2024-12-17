@@ -19,11 +19,12 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEIjSDOmgA2mw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729453072262?e=1735776000&v=beta&t=qepsufhv2X5KOl5ECioJvasGNLSQKO-XPaLU5E4HM7A" alt="" />
 <p align="left"></p>
 <div align="center">
-  <h3> About me 👋</h3>
-  <img src="https://sujon-258549.github.io/silverhok/img/icon.png" alt="">
+  <h3>About Me 👋</h3>
+  <img src="https://sujon-258549.github.io/silverhok/img/icon.png" alt="Sujon's Icon" width="100">
 </div>
+
 <h2>Hi, I’m Sujon! 👋</h2>
-<p align="center">
+<p>
   I’m a <strong>22-year-old Full Stack Developer</strong> from <strong>Rangpur, Bangladesh</strong>.
 </p>
 
