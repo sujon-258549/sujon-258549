@@ -19,10 +19,33 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEIjSDOmgA2mw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729453072262?e=1735776000&v=beta&t=qepsufhv2X5KOl5ECioJvasGNLSQKO-XPaLU5E4HM7A" alt="" />
 <p align="left"></p>
 <div align="center">
-  <h3> About me</h3>
+  <h3> About me 👋</h3>
   <img src="https://sujon-258549.github.io/silverhok/img/icon.png" alt="">
 </div>
-<p>I am a highly skilled frontend web developer designing, developing, and maintaining the front-end of web applications. Achieved measurable success in design dynamic, complex and interactive user experience. Highly experienced and proficient in React JS.</p>
+<h2>Hi, I’m Sujon! 👋</h2>
+<p align="center">
+  I’m a <strong>22-year-old Full Stack Developer</strong> from <strong>Rangpur, Bangladesh</strong>.
+</p>
+
+<h3>🌟 What I Do:</h3>
+<p>
+  I build modern, scalable, and user-focused web applications with:
+</p>
+
+<ul>
+  <li><strong>Frontend Technologies:</strong> HTML, CSS, Bootstrap, JavaScript, React.js, Next.js, TypeScript, Tailwind CSS</li>
+  <li><strong>Backend Technologies:</strong> Node.js, Express.js, MongoDB, Mongoose</li>
+</ul>
+
+<h3>💡 Expertise:</h3>
+<p>
+  With expertise in both frontend and backend development, I craft responsive, dynamic, and efficient solutions tailored to user needs.
+</p>
+
+<h3>🚀 My Goal:</h3>
+<p>
+  I’m passionate about learning, problem-solving, and delivering impactful applications that bridge creativity and functionality.
+</p>
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
