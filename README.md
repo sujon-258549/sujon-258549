@@ -23,12 +23,12 @@
   <img src="https://sujon-258549.github.io/silverhok/img/icon.png" alt="Sujon's Icon" width="100">
 </div>
 
-<h4>Hi, I’m Sujon! 👋</h4>
+<h3>Hi, I’m Sujon! 👋</h3>
 <p>
   I’m a <strong>22-year-old Full Stack Developer</strong> from <strong>Rangpur, Bangladesh</strong>.
 </p>
 
-<h4>🌟 What I Do:</h4>
+<h3>🌟 What I Do:</h3>
 <p>
   I build modern, scalable, and user-focused web applications with:
 </p>
