@@ -19,16 +19,16 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEIjSDOmgA2mw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729453072262?e=1735776000&v=beta&t=qepsufhv2X5KOl5ECioJvasGNLSQKO-XPaLU5E4HM7A" alt="" />
 <p align="left"></p>
 <div align="center">
-  <h3>About Me 👋</h3>
+  <h1>About Me 👋</h1>
   <img src="https://sujon-258549.github.io/silverhok/img/icon.png" alt="Sujon's Icon" width="100">
 </div>
 
-<h2>Hi, I’m Sujon! 👋</h2>
+<h4>Hi, I’m Sujon! 👋</h4>
 <p>
   I’m a <strong>22-year-old Full Stack Developer</strong> from <strong>Rangpur, Bangladesh</strong>.
 </p>
 
-<h3>🌟 What I Do:</h3>
+<h4>🌟 What I Do:</h4>
 <p>
   I build modern, scalable, and user-focused web applications with:
 </p>
@@ -38,12 +38,12 @@
   <li><strong>Backend Technologies:</strong> Node.js, Express.js, MongoDB, Mongoose</li>
 </ul>
 
-<h3>💡 Expertise:</h3>
+<h4>💡 Expertise:</h4>
 <p>
   With expertise in both frontend and backend development, I craft responsive, dynamic, and efficient solutions tailored to user needs.
 </p>
 
-<h3>🚀 My Goal:</h3>
+<h4>🚀 My Goal:</h4>
 <p>
   I’m passionate about learning, problem-solving, and delivering impactful applications that bridge creativity and functionality.
 </p>
