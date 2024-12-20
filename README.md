@@ -93,9 +93,6 @@
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
 <!--         <img align="left" width=390 src="https://streak-stats.demolab.com/?user=sujon-258549&theme=react&border=61dafb&hide_border=true" alt="sujon-258549" /> -->
       </a>
-      ![](https://github-readme-stats.vercel.app/api?username=Krishi1211&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Krishi1211&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishi1211&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sujon-258549&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
       </a>
