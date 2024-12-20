@@ -116,16 +116,15 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sujon-258549&theme=react-dark"/>
 <br>
 
-<h1>🏆 Dooboo lab's github stats</h1>
+<h1>✨ Quira Stats</h1>
 
-
-
-    
-    
+<p align="center">
+  <img src="https://stats.quira.sh/sujon-258549/github?theme=dark" width="330" height="220" alt="Sujon-258549's GitHub | Stats">
+  <img src="https://stats.quira.sh/sujon-258549/topics-over-time?theme=dark" width="330" height="240" alt="Sujon-258549's GitHub | Topics Over Time">
+</p>
+  
   <div align="center">
     <h1 align="center">Skills 🛠️<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"></h1>
-  </div>
-  
   <br> <br>
 
   | Category        | Skills        |
@@ -141,6 +140,8 @@
   | Design Tools    | <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
 
   <br>
+  </div>
+  
 
   <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
   <br>
