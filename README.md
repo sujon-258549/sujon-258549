@@ -118,10 +118,9 @@
 
 <h1>✨ Quira Stats</h1>
 
-<h3>✨ Quira Stats</h3>
 
 <p align = "center">
-<img src="https://stats.quira.sh/Rakesh9100/github?theme=dark" width="330" height="220" alt="Rakesh9100's GitHub | Stats">
+<img src="https://stats.quira.sh/sujon-258549/github?theme=dark" width="330" height="220" alt="Rakesh9100's GitHub | Stats">
 <img src="https://stats.quira.sh/Rakesh9100/topics-over-time?theme=dark" width="330" height="240" alt="Rakesh9100's GitHub | Topics Over Time">
 </p>
   
