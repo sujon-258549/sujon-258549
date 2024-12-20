@@ -118,31 +118,6 @@
 
 <h1>🏆 Dooboo lab's github stats</h1>
 
-## 3D Contribution Calendar 📅 .. 
-<br>
-<p align='center'>
-  <img src="./profile-3d-contrib/profile-night-green.svg">
-</p>
-<hr>
-<br>
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=sujon-258549">
-    <img width="400" src="https://stats.quine.sh/sujon-258549/languages-over-time?theme=dark" />
-  </a>
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=sujon-258549">
-    <img width="400" src="https://stats.quine.sh/sujon-258549/topics-over-time?theme=dark" />
-  </a>
-  <a href="https://quine.sh?utm_source=widgets&utm_campaign=sujon-258549">
-    <img width="400" src="https://stats.quine.sh/sujon-258549/github?theme=dark" /> 
-  </a>
-  <a href = "https://quine.sh?utm_source=widgets&utm_campaign=sujon-258549" >
-    <img width = "400" src="https://stats.quine.sh/sujon-258549/dependencies?theme=dark" />
-  </a>
-   <a href="https://leetcard.jacoblin.cool/sujon-258549?theme=radical&font=Song%20Myung&ext=activity">
-    <img width="400" src="https://leetcard.jacoblin.cool/sujon-258549?theme=radical&font=Song%20Myung&ext=activity" />
-  </a>
-</p>
-
-
 
 
     
