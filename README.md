@@ -116,23 +116,7 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sujon-258549&theme=react-dark"/>
 <br>
 
-<h1>✨ Quira Stats</h1>
 
-
-<table align="center">
-  <tr align="center">
-    <td align="center">
-      <a href="https://quine.sh?utm_source=widgets&utm_campaign=sujon-258549">
-        <img align="center" src="https://stats.quine.sh/sujon-258549/github?theme=dark" height="280em" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://quine.sh?utm_source=widgets&utm_campaign=sujon-258549">
-        <img align="center" src="https://stats.quine.sh/sujon-258549/languages-over-time?theme=dark" height="270em" alt="GitHub Languages Over Time" />
-      </a>
-    </td>
-  </tr>
-</table>
 
   
   <div align="center">
