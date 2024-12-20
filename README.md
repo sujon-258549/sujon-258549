@@ -88,7 +88,8 @@
 
 
   <br>
-<div align="center">
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
   <!-- Streak Stats -->
   <img width="390" height="220" src="https://github-readme-streak-stats-wine-six.vercel.app?user=sujon-258549&theme=react&border_radius=10&hide_border=true" alt="Sujon's Streak Stats">
   
@@ -98,17 +99,7 @@
   </a>
 </div>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-  <!-- Streak Stats -->
-  <img width="390" height="200" src="https://github-readme-streak-stats-wine-six.vercel.app?user=sujon-258549&theme=react&border_radius=10&hide_border=true" alt="Sujon's Streak Stats">
-  
-  <!-- GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=sujon-258549&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Sujon's GitHub Stats">
-  </a>
-</div>
-
-    </div>
+  </div>
 
     
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
