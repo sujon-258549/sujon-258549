@@ -119,10 +119,21 @@
 <h1>✨ Quira Stats</h1>
 
 
-<p align = "center">
-<img src="https://stats.quira.sh/sujon-258549/github?theme=dark" width="330" height="220" alt="Rakesh9100's GitHub | Stats">
-<img src="https://stats.quira.sh/Rakesh9100/topics-over-time?theme=dark" width="330" height="240" alt="Rakesh9100's GitHub | Topics Over Time">
-</p>
+<table align="center">
+  <tr align="center">
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=sujon-258549">
+        <img align="center" src="https://stats.quine.sh/sujon-258549/github?theme=dark" height="280em" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://quine.sh?utm_source=widgets&utm_campaign=sujon-258549">
+        <img align="center" src="https://stats.quine.sh/sujon-258549/languages-over-time?theme=dark" height="270em" alt="GitHub Languages Over Time" />
+      </a>
+    </td>
+  </tr>
+</table>
+
   
   <div align="center">
     <h1 align="center">Skills 🛠️<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"></h1>
