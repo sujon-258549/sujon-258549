@@ -132,9 +132,6 @@
 [![Sujon's Profile Page Banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Anafro-Readme-Skills.svg "Press the right mouse button and click 'Copy link address' to copy the URL to my GitHub page")](https://github.com/sujon-258549)
 
 
-
-  <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
-
   <br> <br>
 
 
