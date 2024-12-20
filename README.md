@@ -78,10 +78,10 @@
 
 
 <br>
-<p align = "center">
+<!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sujon-258549&theme=react&border=61dafb&hide_border=true">
 </p>
-
+ -->
 
 
  
