@@ -118,8 +118,7 @@
 
 <h1>🏆 Dooboo lab's github stats</h1>
 
-
-
+![Snake animation](https://github.com/sujon-258549/sujon-258549/blob/output/github-contribution-grid-snake.svg)
 
 
 
