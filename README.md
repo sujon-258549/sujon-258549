@@ -257,6 +257,14 @@
 </table>
 
   <br>
+  ## :zap: My LeetCode Stats 📊
+<div align="center">
+  <a href="https://leetcode.com/sujon258549">
+    <!-- LeetCode Stats -->
+    <img align="center" src="https://leetcard.jacoblin.cool/sujon258549?ext=heatmap" height="300em" alt="LeetCode Stats" />
+  </a>
+</div>
+
 
   <div align="center">
     <h1 align="center">Connect With Me 🌐<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"></h1>
