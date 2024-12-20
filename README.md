@@ -90,7 +90,7 @@
   <br>
 <div align="center">
   <!-- Streak Stats -->
-  <img width="390" src="https://github-readme-streak-stats-wine-six.vercel.app?user=sujon-258549&theme=vision-friendly-dark&border_radius=10&date=20-12-2024" alt="Sujon's Streak Stats">
+  <img width="390" src="https://github-readme-streak-stats-wine-six.vercel.app?user=sujon-258549&theme=react&border_radius=10&hide_border=true" alt="Sujon's Streak Stats">
   
   <!-- GitHub Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
