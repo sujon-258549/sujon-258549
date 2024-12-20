@@ -88,14 +88,15 @@
 
 
   <br>
-  <p align="center">
-    <div align="center">
-    <p align="center">
+<div align="center">
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats-wine-six.vercel.app?user=sujon-258549&theme=vision-friendly-dark&border_radius=10&date=20-12-2024" alt="Sujon's Streak Stats">
-</p>
-      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sujon-258549&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-      </a>
+  
+  <!-- GitHub Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=sujon-258549&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Sujon's GitHub Stats">
+  </a>
+</div>
     </div>
 
     
