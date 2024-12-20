@@ -246,7 +246,7 @@
 
   <br>
   <br>
-<h1>  ## :zap: My LeetCode Stats 📊</h1>
+<h1 align="center">  ## :zap: My LeetCode Stats 📊</h1>
 <div align="center">
   <a href="https://leetcode.com/sujon258549">
     <!-- LeetCode Stats -->
