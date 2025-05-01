@@ -1,4 +1,4 @@
-<img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0291.gif" width="100%" height='300px' alt="" />
+<img src="https://i.ibb.co.com/zVCkM096/Gray-Modern-Digital-Marketing-Linkedln-Article-Cover-Image.png" width="100%" height='300px' alt="" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
