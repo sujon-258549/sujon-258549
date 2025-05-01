@@ -244,6 +244,18 @@
       </a>
       <br>Vercel
     </td>
+     <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://i.ibb.co.com/S4JqLPwG/download-removebg-preview.png" alt="Firebase" width="40" height="40"/>
+      </a>
+      <br>Next js
+    </td>
+     <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://i.ibb.co.com/8LK1jZns/download-removebg-preview-1.png" alt="Firebase" width="40" height="40"/>
+      </a>
+      <br>Redux 
+    </td>
   </tr>
 </table>
 
