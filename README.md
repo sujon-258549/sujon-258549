@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/zVCkM096/Gray-Modern-Digital-Marketing-Linkedln-Article-Cover-Image.png" width="100%" height='300px' alt="" />
+<img src="https://i.ibb.co.com/gZsJqMgV/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" width="100%" height='300px' alt="" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
