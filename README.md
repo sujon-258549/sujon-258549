@@ -1,5 +1,4 @@
-<img src="https://i.ibb.co.com/gZsJqMgV/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" width="100%" height='300px' alt="" />
-
+![_Blue   White Modern Technology Linkedln Banner (2)](https://github.com/user-attachments/assets/a5ef4b81-a00d-47f8-80c3-6683094cd540)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,There!+👋;......This+is+Md+Sujon+Mia....;Nice+to+meet+you!&center=true&size=40">
