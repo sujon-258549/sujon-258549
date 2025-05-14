@@ -34,9 +34,21 @@
 </p>
 
 <ul>
-  <li><strong>Frontend Technologies:</strong> HTML, CSS, Bootstrap, JavaScript, React.js, Next.js, TypeScript, Tailwind CSS</li>
+  <li><strong>Frontend Technologies:</strong> HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js, ShadCn/ui , Ant design Etc</li>
   <li><strong>Backend Technologies:</strong> Node.js, Express.js, MongoDB, Mongoose</li>
+  <li><strong>State Management:</strong> Redux, Redux Toolkit, React Context API</li>
+  <li><strong>Version Control:</strong> Git, GitHub</li>
+  <li><strong>Authentication & Authorization:</strong> Firebase Authentication, JWT</li>
+  <li><strong>APIs:</strong> RESTful APIs, Fetch API, Axios</li>
+  <li><strong>Package Managers & Build Tools:</strong> npm, Vite</li>
+  <li><strong>Database & ORM:</strong> MongoDB, Mongoose</li>
+  <li><strong>Testing & Debugging:</strong> Chrome DevTools, Console</li>
+  <li><strong>Deployment:</strong> Vercel, Netlify, RealWay , Render</li>
+  <li><strong>Design & Responsiveness:</strong> Responsive Design, Flexbox, Grid System</li>
+  <li><strong>Project & Code Management:</strong> Clean Code, Component Reusability, Time Management</li>
+  <li><strong>Soft Skills:</strong> Problem Solving, Teamwork, Communication, Adaptability</li>
 </ul>
+
 
 <h4>💡 Expertise:</h4>
 <p>
