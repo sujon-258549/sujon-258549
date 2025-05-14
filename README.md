@@ -1,5 +1,6 @@
-![_Blue   White Modern Technology Linkedln Banner (2)](https://github.com/user-attachments/assets/a5ef4b81-a00d-47f8-80c3-6683094cd540)
+![_Blue   White Modern Technology Linkedln Banner](https://github.com/user-attachments/assets/27f6f148-372d-4d1e-bc10-bfcbde979593)
 <h1 align="center">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,There!+👋;......This+is+Md+Sujon+Mia....;Nice+to+meet+you!&center=true&size=40">
   </a>
