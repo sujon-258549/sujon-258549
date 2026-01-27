@@ -8,10 +8,6 @@
 
 
 
-<img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
-
-
-
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEIjSDOmgA2mw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729453072262?e=1735776000&v=beta&t=qepsufhv2X5KOl5ECioJvasGNLSQKO-XPaLU5E4HM7A" alt="" />
 <p align="left"></p>
 <div align="center">
