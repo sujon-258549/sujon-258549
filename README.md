@@ -10,11 +10,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer+👋;React+Js+Developer+;MERN+Stack+Developer;Web+Designer!&center=true&size=30">
-  </a>
-</h1>
+
 
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEIjSDOmgA2mw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729453072262?e=1735776000&v=beta&t=qepsufhv2X5KOl5ECioJvasGNLSQKO-XPaLU5E4HM7A" alt="" />
 <p align="left"></p>
