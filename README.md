@@ -1,4 +1,3 @@
-![_Blue   White Modern Technology Linkedln Banner](https://github.com/user-attachments/assets/27f6f148-372d-4d1e-bc10-bfcbde979593)
 <h1 align="center">
 
   <a href="https://git.io/typing-svg">
