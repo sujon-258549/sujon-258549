@@ -264,13 +264,7 @@
 
   <br>
   <br>
-<h1 align="center">  ## :zap: My LeetCode Stats 📊</h1>
-<div align="center">
-  <a href="https://leetcode.com/sujon258549">
-    <!-- LeetCode Stats -->
-    <img align="center" src="https://leetcard.jacoblin.cool/sujon258549?ext=heatmap" height="300em" alt="LeetCode Stats" />
-  </a>
-</div>
+
 
 
   <div align="center">
